@@ -1,0 +1,65 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+*.so
+.Python
+*.pyc
+*.pyo
+*.pyd
+*$py.class
+
+# Virtual environments
+.venv
+.env
+.env.example
+.venv/
+.env/
+venv/
+venv.bak/
+ENV/
+env/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Project-specific files
+audio_question.mp3
+final.mp3
+image.jpg
+*.log
+*.tmp
+*.temp
+
+# Environment variables files
+.env.local
+.env.*.local
+.env.production
+.env.staging
+.env.development
+
+# Data files
+*.csv
+*.json
+*.db
+*.sqlite
+*.sqlite3
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+iTunesDB
+Thumbs.db
